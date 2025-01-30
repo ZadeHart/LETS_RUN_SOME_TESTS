@@ -1,0 +1,11 @@
+[
+    {
+        "questions": "Which is the correct answer?",
+        "answers": [
+            { "text": "Eggs-actly!", "isCorrect": true },
+            { "text": "Close, but not cigar.", "isCorrect": false },
+            { "text": "Sorta", "isCorrect": false },
+            { "text": "Come on, MAN!", "isCorrect": false }
+        ]
+    }
+]
